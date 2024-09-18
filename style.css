@@ -1,0 +1,36 @@
+/* Namn: Linus Andersson
+Klass: EE22A */
+
+
+h1{
+    color: #1a54b0;
+    background-color: #dff5f5;
+    text-align: right;
+}
+
+body{
+    background-image: url("./img/moorish-pattern_644416-582.jpg");
+}
+
+ul{
+    background-color:#2f3233;
+}
+
+a{
+    color: #FFD700;
+}
+
+a:hover{
+    color: indigo;
+    background-color: aqua;
+}
+
+a:active{
+    color: greenyellow;
+    background-color: tomato;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
